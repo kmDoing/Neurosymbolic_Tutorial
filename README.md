@@ -13,3 +13,5 @@ The code runs in Google Colab
 # My changes to the code will be marked by comments
 Notebook1
 In the first instance the only changes have been to get the code running
+
+The notebooks wont display in Git. I am working on it.
